@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-The **Library Management System v2.0** is a C++ command-line application that helps librarians efficiently manage books and members. It supports adding, searching, issuing, and returning books — complete with **due date enforcement**, **overdue fine calculation**, and a beautifully formatted **colored console interface**.
+The **Library Management System** is a C++ command-line application that helps librarians efficiently manage books and members. It supports adding, searching, issuing, and returning books — complete with **due date enforcement**, **overdue fine calculation**, and a beautifully formatted **colored console interface**.
 
 ---
 
@@ -49,7 +49,7 @@ The **Library Management System v2.0** is a C++ command-line application that he
 ```
   +==============================================================+
   |                                                              |
-  |          LIBRARY  MANAGEMENT  SYSTEM  v2.0                  |
+  |          LIBRARY  MANAGEMENT  SYSTEM  |
   |          Manage Books & Members Efficiently                  |
   |                                                              |
   +==============================================================+
