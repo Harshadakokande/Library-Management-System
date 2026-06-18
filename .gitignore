@@ -1,0 +1,12 @@
+# Compiled output
+output/
+*.exe
+*.o
+*.out
+
+# VS Code
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
