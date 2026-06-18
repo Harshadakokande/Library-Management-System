@@ -1,4 +1,4 @@
-# 📚 Library Management System v2.0
+# 📚 Library Management System 
 
 > A feature-rich, console-based Library Management System built in **C++** with colored terminal UI, due-date tracking, fine calculation, and a fully organized menu system.
 
@@ -234,12 +234,3 @@ Contributions are welcome!
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">Made with ❤️ in C++</p>
